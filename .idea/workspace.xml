@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f623657-f6bc-408b-8a4b-ddffcf19efcd" name="Changes" comment="&quot;first commit repo&quot;" />
+    <list default="true" id="1f623657-f6bc-408b-8a4b-ddffcf19efcd" name="Changes" comment="&quot;first commit repo&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/db/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/db/TransactionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umg/progra2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umg/progra2/utils/ConvertidorMoneda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/utils/ConvertidorMoneda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umg/progra2/utils/WeatherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/utils/WeatherService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +48,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/projects/java/progra2/tareaBot",
     "node.js.detected.package.eslint": "true",
@@ -67,7 +78,8 @@
       <updated>1723747167165</updated>
       <workItem from="1723747168243" duration="16373000" />
       <workItem from="1723901656905" duration="34000" />
-      <workItem from="1723901734419" duration="123000" />
+      <workItem from="1723901734419" duration="313000" />
+      <workItem from="1723902057902" duration="5406000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;first commit&quot;">
       <option name="closed" value="true" />
